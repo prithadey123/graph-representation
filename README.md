@@ -19,7 +19,7 @@ Graphs are widely used in:
 - Routing algorithms
 - Pathfinding problems
 
----
+--
 
  Representation Used
 
